@@ -97,13 +97,7 @@ No image storage, file uploads, or payment integrations included.
 Remember to never commit .env or secret keys to Git.
 
 📁 Project Structure
-└── Course_Selling_App_Backend/
-    ├── db.js
-    ├── index.js
-    ├── middleware
-    ├── package-lock.json
-    ├── package.json
-    └── routes
+└── Course_Selling_App_Backend/├── db.js├── index.js├── middleware├── package-lock.json├── package.json└── routes
 
 💬 Contributions & Feedback
 
