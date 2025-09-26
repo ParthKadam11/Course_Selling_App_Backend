@@ -96,34 +96,17 @@ No image storage, file uploads, or payment integrations included.
 
 Remember to never commit .env or secret keys to Git.
 
+## 📁 Project Structure
 
-### 📂 Project Index
-<details open>
-	<summary><b><code>COURSE_SELLING_APP_BACKEND/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/ParthKadam11/Course_Selling_App_Backend/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ParthKadam11/Course_Selling_App_Backend/blob/master/index.js'>index.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ParthKadam11/Course_Selling_App_Backend/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ParthKadam11/Course_Selling_App_Backend/blob/master/db.js'>db.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-
+```sh
+└── Course_Selling_App_Backend/
+    ├── db.js
+    ├── index.js
+    ├── middleware
+    ├── package-lock.json
+    ├── package.json
+    └── routes
+```
 💬 Contributions & Feedback
 
 If you find bugs or have suggestions, feel free to open an issue or pull request.
